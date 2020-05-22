@@ -23,7 +23,7 @@ I believe the only modifications I made to the last file was to change the names
 [Problem 2 Python Code](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%202/Try2Problem2PartC.py)
 
 
-The Python file should print out the answer to C, and create the plot for D.
+The Python file should print out the answer to C, and create the plot for D. Also the comments in the Python file help explain my work especially for part D.
 
 **Problem 3**
 
