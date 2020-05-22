@@ -10,7 +10,7 @@ All Python files should be able to be run through PyCharm if other methods don't
 
 [Problem 1 PDF](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%201/Problem%201%20Main%20File.pdf)
 
-[Problem 1 Phase Plot code](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%201/5440FinalProblem1PartB)
+[Problem 1 Phase Plot code](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%201/5440FinalProblem1PartB) <- This is the file to run to generate the plot.
 
 [Supplementary Code From Professor Paszek for Phase Plot](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%201/PhasePlotFromProfPaszekModified)
 
