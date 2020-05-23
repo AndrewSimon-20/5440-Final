@@ -18,6 +18,15 @@ I believe the only modifications I made to the last file was to change the names
 
 **Problem 2**
 
+**USE THESE**
+
+[Problem 2 Main PDF](https://github.com/AndrewSimon-20/5440-Final/blob/master/Problem%202%20Main%20PDF.pdf)
+
+[Problem 2 Excel Sheet](https://github.com/AndrewSimon-20/5440-Final/blob/master/Problem%202%20Part%20D.xlsx)
+
+
+**PLEASE IGNORE THESE TWO FILES IF I DON'T TAKE THEM DOWN.**
+
 [Problem 2 PDF](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%202/Problem%202%20Main%20File.pdf)
 
 [Problem 2 Python Code](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Problem%202/Try2Problem2PartC.py)
