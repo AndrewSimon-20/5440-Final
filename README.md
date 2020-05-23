@@ -39,9 +39,5 @@ I couldn't figure out how to move these files into the Problem 2 folder, so they
 
 
 
-Just in case a PDF of all answers together was preferable:
-
-[ALL Problems PDF](https://github.com/AndrewSimon-20/5440-Final/blob/master/5440%20Final/Extra%20Copy%20of%20all%20PDFs%20combined%20Just%20in%20Case.pdf)
-
 
 
