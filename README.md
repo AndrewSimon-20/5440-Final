@@ -18,6 +18,8 @@ I believe the only modifications I made to the last file was to change the names
 
 **Problem 2**
 
+I couldn't figure out how to move these files into the Problem 2 folder, so they are in the main branch above.
+
 [Problem 2 Main PDF](https://github.com/AndrewSimon-20/5440-Final/blob/master/Problem%202%20Main%20PDF.pdf)
 
 [Problem 2 Excel Sheet](https://github.com/AndrewSimon-20/5440-Final/blob/master/Problem%202%20Part%20D.xlsx)
